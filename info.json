@@ -1,1 +1,28 @@
-
+{"name":"Aimedis",
+"tokenSymbol":"AIMX ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Aimedis is a cutting-edge digital healthcare platform leveraging blockchain technology and AI to streamline medical data management and patient care. Aimedis Avalon is the world's first healthcare metaverse, revolutionizing patient engagement and medical education through immersive virtual experiences. This groundbreaking ecosystem connects healthcare providers, patients, and researchers, fostering collaboration and innovation while ensuring privacy and security through blockchain-backed data management.",
+"whitePaperLink":"https://docsend.com/view/fgvnbp5ri7kng44q",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://coinmarketleague.com/rest/article/getImg/19/19.png",
+       "source": "image",
+       "link": "https://aimedis.com/blog"
+   }
+],
+"deleted":false,
+"primaryColor":"#01a2b4",
+"twitterHandle":"@AimedisGlobal",
+"coingeckoId":"https://www.coingecko.com/de/munze/aimedis-new",
+"snapshotId":"",
+"logo":"https://i.imgur.com/rpNWXYk.jpg",
+"telegramLink":"",
+"discordLink":"https://t.me/AimedisOfficialEnglish",
+"website":"https://aimedis.com/",
+"tokenDescription":"AIMx is Aimedis' DeFi, governance, social, payment and utility token enabling fast, smooth and costless transactions in the Aimedis ecosystem.",
+"tokenTradeLink":"https://quickswap.exchange/#/swap?outputCurrency=0x33b6d77c607ea499ab5db7e2201c5a516a78a5db&swapIndex=0",
+"tags":["NFTs", "Ecosystems", "Decentralized biotech" , "Focused Research", "Publishing", "Decentralized funding", "Data Storage", "Decentralized Computing", "Science DeFi"]
+  
+}
